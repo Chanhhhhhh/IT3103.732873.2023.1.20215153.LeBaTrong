@@ -1,3 +1,4 @@
+package  lab01;
 import javax.swing.JOptionPane;
 public class CaculateTwoNumbers {
     public static void main(String[] args ) {
