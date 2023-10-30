@@ -1,6 +1,7 @@
 package lab02.code;
 
 public class DigitalVideoDisc {
+    // Lê Bá Trọng - 20215153
     private  String title;
     private  String category;
     private String director;

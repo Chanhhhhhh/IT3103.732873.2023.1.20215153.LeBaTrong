@@ -2,6 +2,8 @@ package lab02.code;
 public class Aims {
 
         public static void main(String[] args) {
+            // Lê Bá Trọng - 20215153
+
             //Create a new cart
             Cart anOrder = new Cart();
 

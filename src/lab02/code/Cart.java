@@ -1,6 +1,7 @@
 package lab02.code;
 import java.util.Objects;
 public class Cart {
+    // Lê Bá Trọng - 20215153
     public static final int MAX_NUMBERS_ORDERED = 20;
     private DigitalVideoDisc itemsOrdered[] = new DigitalVideoDisc[MAX_NUMBERS_ORDERED];
 
