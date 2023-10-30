@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b162522-e96d-4a01-8a20-ee324e42aae8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab02/Design/AIMS_TrongLB_5153_873_class.asta" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab02/Design/AIMS_TrongLB_5153_873_class.asta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab02/Design/Class Diagram0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab02/Requirement/AIMS_TrongLB_5153_873.asta" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab02/Requirement/AIMS_TrongLB_5153_873.asta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab02/Requirement/UseCase Diagram0.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab02/Requirement/UseCase Diagram0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab02/code/Aims.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab02/code/Aims.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab02/code/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab02/code/Cart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab02/code/DigitalVideoDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab02/code/DigitalVideoDisc.java" afterDir="false" />
-    </list>
+    <list default="true" id="8b162522-e96d-4a01-8a20-ee324e42aae8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
