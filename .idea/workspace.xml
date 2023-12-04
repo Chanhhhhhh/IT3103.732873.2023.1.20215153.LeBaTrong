@@ -5,44 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b162522-e96d-4a01-8a20-ee324e42aae8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Aims/Aims.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Aims/cart/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Aims/disc/DigitalVideoDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Aims/store/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Test/cart/CartTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Test/dics/TestPassingParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Test/store/StoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/garbage/ConcatenationInLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/garbage/GarbageCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/garbage/NoGarbage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/lab02/Design/AIMS_TrongLB_5153_873_class.asta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/lab02/Design/Class Diagram0_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/lab02/ReadingAssignment/readingAssignment.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/lab02/Requirement/AIMS_TrongLB_5153_873.asta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/lab02/Requirement/UseCase Diagram0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AimsProject/Design/AIMS_TrongLB_5153_873_class.asta.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AimsProject/Design/Class Diagram0_0.png.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Aims/media/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Aims/media/CompactDisc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Aims/media/DigitalVideoDisc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Aims/media/Disc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Aims/media/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Aims/media/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Aims/media/Track.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP_projectLAB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_projectLAB.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab01/CaculateTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/lab01/CaculateTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab01/ChoosingOption.java" beforeDir="false" afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/lab01/ChoosingOption.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab01/DaysOfMonth.java" beforeDir="false" afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/lab01/DaysOfMonth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab01/Exercise226.java" beforeDir="false" afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/lab01/Exercise226.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab01/FirstDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/lab01/FirstDialog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab01/HelloNameDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/lab01/HelloNameDialog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab01/HelloWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/lab01/HelloWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab01/InputFromKeyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/lab01/InputFromKeyboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab01/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/lab01/Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab01/ShowTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/lab01/ShowTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab01/SortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/lab01/SortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab01/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/lab01/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab02/Design/AIMS_TrongLB_5153_873_class.asta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab02/Design/Class Diagram0_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab02/ReadingAssignment/Question.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/lab02/ReadingAssignment/Question.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab02/ReadingAssignment/readingAssignment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab02/Requirement/AIMS_TrongLB_5153_873.asta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab02/Requirement/UseCase Diagram0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab02/code/Aims.java" beforeDir="false" afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/lab02/code/Aims.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab02/code/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/lab02/code/Cart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab02/code/DigitalVideoDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/OtherProjects/src/hust/soict/dsai/lab02/code/DigitalVideoDisc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/Design/AIMS_TrongLB_5153_873_class.asta" beforeDir="false" afterPath="$PROJECT_DIR$/AimsProject/Design/AIMS_TrongLB_5153_873_class.asta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/Design/Class Diagram0_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/AimsProject/Design/Class Diagram0_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Aims/Aims.java" beforeDir="false" afterPath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Aims/Aims.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Aims/cart/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Aims/cart/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Aims/disc/DigitalVideoDisc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Aims/store/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Aims/store/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Test/cart/CartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Test/cart/CartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Test/dics/TestPassingParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Test/dics/TestPassingParameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Test/store/StoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Test/store/StoreTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_projectLAB/hust/soict/dsai/Aims/Aims.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_projectLAB/hust/soict/dsai/Aims/Aims.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_projectLAB/hust/soict/dsai/Aims/cart/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_projectLAB/hust/soict/dsai/Aims/cart/Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_projectLAB/hust/soict/dsai/Aims/disc/DigitalVideoDisc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_projectLAB/hust/soict/dsai/Aims/store/Store.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_projectLAB/hust/soict/dsai/Aims/store/Store.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_projectLAB/hust/soict/dsai/Test/cart/CartTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_projectLAB/hust/soict/dsai/Test/cart/CartTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_projectLAB/hust/soict/dsai/Test/dics/TestPassingParameter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_projectLAB/hust/soict/dsai/Test/dics/TestPassingParameter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOP_projectLAB/hust/soict/dsai/Test/store/StoreTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOP_projectLAB/hust/soict/dsai/Test/store/StoreTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +44,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -64,6 +54,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -78,6 +71,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
@@ -90,7 +84,20 @@
       <recent name="F:\JavaOOP\lab\LeBaTrong_20215153_OOP_LAP20231_732783" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StoreTest">
+  <component name="RunManager" selected="Application.Aims">
+    <configuration name="Aims" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hust.soict.dsai.Aims.Aims" />
+      <module name="OOP_projectLAB" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hust.soict.dsai.Aims.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CartTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hust.soict.dsai.Test.cart.CartTest" />
       <module name="OOP_projectLAB" />
@@ -104,25 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GarbageCreator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hust.soict.dsai.garbage.GarbageCreator" />
+    <configuration name="Media" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hust.soict.dsai.Aims.media.Media" />
       <module name="OOP_projectLAB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hust.soict.dsai.garbage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NoGarbage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hust.soict.dsai.garbage.NoGarbage" />
-      <module name="OOP_projectLAB" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hust.soict.dsai.garbage.*" />
+          <option name="PATTERN" value="hust.soict.dsai.Aims.media.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aims" />
+        <item itemvalue="Application.Media" />
         <item itemvalue="Application.StoreTest" />
         <item itemvalue="Application.CartTest" />
         <item itemvalue="Application.TestPassingParameter" />
-        <item itemvalue="Application.NoGarbage" />
-        <item itemvalue="Application.GarbageCreator" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +202,15 @@
           <url>file://$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Test/dics/TestPassingParameter.java</url>
           <line>9</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/AimsProject/src/hust/soict/dsai/Aims/media/Track.java</url>
+          <line>8</line>
+          <properties class="hust.soict.dsai.Aims.media.Track" method="getTitle">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
