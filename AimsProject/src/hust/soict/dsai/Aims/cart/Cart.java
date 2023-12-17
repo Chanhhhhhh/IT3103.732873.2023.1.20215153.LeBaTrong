@@ -2,6 +2,9 @@ package hust.soict.dsai.Aims.cart;
 import hust.soict.dsai.Aims.media.DigitalVideoDisc;
 import hust.soict.dsai.Aims.media.Media;
 import hust.soict.dsai.Aims.media.MediaComparatorByTitleCost;
+import javafx.collections.FXCollections;
+import javafx.collections.ObservableList;
+import javafx.collections.transformation.FilteredList;
 
 import java.util.ArrayList;
 import java.util.Objects;
@@ -9,7 +12,15 @@ import java.util.*;
 
 public class Cart {
     public static final int MAX_NUMBERS_ORDERED = 20;
-    private ArrayList<Media> itemsOrdered = new ArrayList<Media>();
+    private ObservableList<Media> itemsOrdered = FXCollections.observableArrayList();
+
+    public ObservableList<Media> getItemsOrdered() {
+        return itemsOrdered;
+    }
+
+    public void setItemsOrdered(ObservableList<Media> itemsOrdered) {
+        this.itemsOrdered = itemsOrdered;
+    }
     public void addMedia(Media media) {
         if(itemsOrdered.size() == MAX_NUMBERS_ORDERED) System.out.println("The cart is almost full");
         else {
